@@ -4,10 +4,7 @@
 
 ---
 
-This paper introduces a controlled, interpretable framework for four-way classification of political statements — Human-Real, Human-Fake, AI-Real, and AI-Fake — using 
-stylometric text features and credibility-aware metadata fusion. Systematic ablation over eight linguistic feature families and four classical ML classifiers shows that 
-text features alone achieve 60.95% accuracy, while adding speaker credibility metadata pushes performance to 76.08% Macro F1 of 0.7540, confirming that source credibility 
-is the dominant signal for factual veracity classification.
+This paper introduces a controlled, interpretable framework for four-way classification of political statements: Human-Real, Human-Fake, AI-Real, and AI-Fake using stylometric text features and credibility-aware metadata fusion. Systematic ablation over eight linguistic feature families and four classical ML classifiers shows that text features alone achieve 60.95% accuracy, while adding speaker credibility metadata pushes performance to 76.08% Macro F1 of 0.7540, confirming that source credibility is the dominant signal for factual veracity classification.
 
 ## Dataset
 
