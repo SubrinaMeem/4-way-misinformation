@@ -1,6 +1,6 @@
 # Stylometric & Credibility-Aware Four-Way Human and AI-Generated Misinformation Classification
 
-> Accepted at **2026 5th IEEE ICISET** — 08–10 November 2026, Chittagong, Bangladesh
+> Accepted at **International Conference on Innovations in Science, Engineering and Technology (ICISET), 2026** — 08–10 November 2026, Chittagong, Bangladesh
 
 ---
 
