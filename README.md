@@ -8,5 +8,5 @@ This paper introduces a controlled, interpretable framework for four-way classif
 
 ## Dataset
 
-The dataset used in this work is publicly available at:  
-https://github.com/SubrinaMeem/Authorship-Aware-Fake-News
+The dataset used in this work is publicly available[ Here](https://github.com/SubrinaMeem/Authorship-Aware-Fake-News).
+
